@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T06:31:33.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MUaNPrbn_QK7Sn4KuV41" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T06:37:58.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xvOkH3Ax5kYhWSePimYc" version="21.6.1" type="github">
   <diagram name="第 1 页" id="ergHUzXghdu48mOkxfZ9">
-    <mxGraphModel dx="1221" dy="734" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="842" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,10 +96,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fPxglKkb8lsgMMI8yU8m-139" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="191" y="133" width="264" height="20" as="geometry" />
+          <mxGeometry x="194" y="133" width="264" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fPxglKkb8lsgMMI8yU8m-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fPxglKkb8lsgMMI8yU8m-140" target="fPxglKkb8lsgMMI8yU8m-139">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fPxglKkb8lsgMMI8yU8m-140" value="申请入库时间" style="text;strokeColor=none;fillColor=none;html=1;fontSize=21;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="303" y="92" width="40" height="30" as="geometry" />
+          <mxGeometry x="305" y="92" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fPxglKkb8lsgMMI8yU8m-142" value="&amp;nbsp;月份" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="401" y="293" width="40" height="30" as="geometry" />
