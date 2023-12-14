@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T08:11:42.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TWhNdEEhbTfE1MPMOX_w" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T08:12:44.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3t5fLhoGN9J5dG3Oj-cr" version="22.1.8" type="github">
   <diagram name="第 1 页" id="ergHUzXghdu48mOkxfZ9">
     <mxGraphModel dx="1160" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FJMeuyJBNWMCIe64IlPQ-15" value="2位年份" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="603" y="761" width="66" height="30" as="geometry" />
+          <mxGeometry x="603" y="761" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FJMeuyJBNWMCIe64IlPQ-16" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -65,7 +65,7 @@
           <mxGeometry x="518.2194934765924" width="161.7805065234075" height="75" as="geometry" />
         </mxCell>
         <mxCell id="FJMeuyJBNWMCIe64IlPQ-34" value="2位月份" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="516" y="790" width="74" height="30" as="geometry" />
+          <mxGeometry x="516" y="790" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FJMeuyJBNWMCIe64IlPQ-37" value="5位流水号" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="719.5" y="740" width="74.5" height="30" as="geometry" />
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FJMeuyJBNWMCIe64IlPQ-47" value="12位订单号" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="275" y="823.33" width="76" height="30" as="geometry" />
+          <mxGeometry x="275" y="823.33" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FJMeuyJBNWMCIe64IlPQ-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="445.75" y="513.75" width="20" height="278.5" as="geometry" />
@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FJMeuyJBNWMCIe64IlPQ-55" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="78" y="152.5" width="670" height="75" as="geometry" />
+          <mxGeometry x="72" y="159" width="670" height="75" as="geometry" />
         </mxCell>
         <mxCell id="FJMeuyJBNWMCIe64IlPQ-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="FJMeuyJBNWMCIe64IlPQ-55" vertex="1">
           <mxGeometry x="11.312356101304681" width="657.145049884881" height="75" as="geometry" />
