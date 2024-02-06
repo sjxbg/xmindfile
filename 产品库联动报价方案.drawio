@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T13:12:46.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TsWDxceWMMe65TefQ7I_" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T13:18:39.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BMxy5XBw-DLdCDroIyYA" version="23.1.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="800" dy="474" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,10 +49,10 @@
         <mxCell id="aiDIoV8p20knIGa38-df-10" value="选择有库存的产品生成配置方案" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="210" y="20" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aiDIoV8p20knIGa38-df-12" value="方案导出" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+        <mxCell id="aiDIoV8p20knIGa38-df-12" value="分享方案" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="50" y="20" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aiDIoV8p20knIGa38-df-14" value="方案导出" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+        <mxCell id="aiDIoV8p20knIGa38-df-14" value="导出方案" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="360" y="20" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aiDIoV8p20knIGa38-df-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-24" target="dNxyNK7c78bLwvsdeMH5-30">
