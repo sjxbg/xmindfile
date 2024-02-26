@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T06:51:28.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="iBEPVoetzaYMts5Cgqj7" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T06:54:42.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6aHLOAvCTVtUjsvam531" version="23.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1657" dy="4281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
             <mxPoint x="550.0000000000005" y="448.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iHfLq7_6baQm32PXwItL-26" value="&lt;div&gt;将类型与关联的&lt;/div&gt;&lt;div&gt;扩展属性写入&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iHfLq7_6baQm32PXwItL-26" value="&lt;div&gt;将类型与关联的&lt;/div&gt;&lt;div&gt;扩展属性写入缓存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="319" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iHfLq7_6baQm32PXwItL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iHfLq7_6baQm32PXwItL-27" target="iHfLq7_6baQm32PXwItL-35">
@@ -138,6 +138,9 @@
         </mxCell>
         <mxCell id="iHfLq7_6baQm32PXwItL-63" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;查询存储&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="568" y="531" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iHfLq7_6baQm32PXwItL-67" value="缓存设置" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
