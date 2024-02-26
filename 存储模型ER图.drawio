@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T04:32:20.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="V_BCr7xFwrE0oH76a1L9" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T02:06:19.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="M19vIAnqSowfWge_7uJE" version="23.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1160" dy="687" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="AVYWx6dRsydTbOFGkszw-1" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="163" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AVYWx6dRsydTbOFGkszw-2" value="物品属性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AVYWx6dRsydTbOFGkszw-2" value="物品扩展属性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="163" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AVYWx6dRsydTbOFGkszw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AVYWx6dRsydTbOFGkszw-4" target="AVYWx6dRsydTbOFGkszw-6">
@@ -22,7 +22,7 @@
         <mxCell id="AVYWx6dRsydTbOFGkszw-4" value="物品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="303" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AVYWx6dRsydTbOFGkszw-6" value="物品属性值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AVYWx6dRsydTbOFGkszw-6" value="物品扩展属性值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="303" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
