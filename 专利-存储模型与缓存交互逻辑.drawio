@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T07:37:35.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PszCNf1ihHYgL7fKu_8i" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T07:38:11.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3ANz2HgettyKcn5tvTEq" version="23.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1160" dy="687" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
             <mxPoint x="473" y="437" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AX_fsk7QE4GtIoJ5TZrm-4" value="&lt;div&gt;根据LRU算法边工替换更新到缓存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AX_fsk7QE4GtIoJ5TZrm-4" value="&lt;div&gt;根据LRU算法新增替换更新到缓存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="273" y="422" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AX_fsk7QE4GtIoJ5TZrm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AX_fsk7QE4GtIoJ5TZrm-6" target="iHfLq7_6baQm32PXwItL-27">
