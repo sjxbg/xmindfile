@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T09:22:09.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8spmGqXXtTKwuCPKuP_X" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T09:23:23.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="tb8BC5cvv3EHGxGe4751" version="24.5.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1567" dy="973" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,22 +41,17 @@
         <mxCell id="vrMutl9Br54j6cZ6q9lH-95" value="新建/更新设备信息&lt;div&gt;到数据库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="59" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vrMutl9Br54j6cZ6q9lH-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vrMutl9Br54j6cZ6q9lH-106" target="vrMutl9Br54j6cZ6q9lH-107">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340.0000000000002" y="23.999999999999886" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vrMutl9Br54j6cZ6q9lH-107" value="选择布局下发的设备筛选条件，将条件发送到服务端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="49" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vrMutl9Br54j6cZ6q9lH-106" value="设计布局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="-36" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vrMutl9Br54j6cZ6q9lH-109" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="278.99949656168627" y="151.0028362528484" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vrMutl9Br54j6cZ6q9lH-110" value="设计好布局hou&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="292" y="-36" width="120" height="60" as="geometry" />
+        <mxCell id="vrMutl9Br54j6cZ6q9lH-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vrMutl9Br54j6cZ6q9lH-110" target="vrMutl9Br54j6cZ6q9lH-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vrMutl9Br54j6cZ6q9lH-110" value="设计好布局后，进&lt;div&gt;行布局下发&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
