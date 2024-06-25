@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T02:47:06.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1fiv3Sk28Ke9hPtvxJBW" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T02:48:27.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MxN7ZSHpqFRrKXnKOan0" version="24.5.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2057" dy="1223" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vrMutl9Br54j6cZ6q9lH-144" value="设备请求服务端&lt;div&gt;查询数据库中设备布局关联，查询发布历史获取布局下载地址&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="194" y="787" width="120" height="60" as="geometry" />
+          <mxGeometry x="197" y="778" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vrMutl9Br54j6cZ6q9lH-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vrMutl9Br54j6cZ6q9lH-146" target="vrMutl9Br54j6cZ6q9lH-129" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -110,18 +110,18 @@
         </mxCell>
         <mxCell id="vrMutl9Br54j6cZ6q9lH-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="vrMutl9Br54j6cZ6q9lH-151" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="254" y="923" as="sourcePoint" />
+            <mxPoint x="257" y="914" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrMutl9Br54j6cZ6q9lH-149" value="设备下载布局，解析布局并应用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="194" y="866" width="120" height="60" as="geometry" />
+          <mxGeometry x="197" y="857" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vrMutl9Br54j6cZ6q9lH-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vrMutl9Br54j6cZ6q9lH-151" target="vrMutl9Br54j6cZ6q9lH-149" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="990" as="targetPoint" />
+            <mxPoint x="113" y="981" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="172" y="984" />
-              <mxPoint x="172" y="896" />
+              <mxPoint x="175" y="975" />
+              <mxPoint x="175" y="887" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -139,7 +139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vrMutl9Br54j6cZ6q9lH-151" value="解析布局&lt;div&gt;是否失败&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="193" y="944" width="124" height="80" as="geometry" />
+          <mxGeometry x="196" y="935" width="124" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vrMutl9Br54j6cZ6q9lH-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vrMutl9Br54j6cZ6q9lH-156" target="vrMutl9Br54j6cZ6q9lH-94" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -147,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vrMutl9Br54j6cZ6q9lH-156" value="下次心跳将缓存中的布局状态更新为无更新" style="whiteSpace=wrap;html=1;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="195" y="1047" width="120" height="60" as="geometry" />
+          <mxGeometry x="198" y="1038" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Bv3MA95LGZGZdDIA4jL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Bv3MA95LGZGZdDIA4jL-0" target="1Bv3MA95LGZGZdDIA4jL-1">
           <mxGeometry relative="1" as="geometry" />
@@ -170,6 +170,9 @@
         </mxCell>
         <mxCell id="1Bv3MA95LGZGZdDIA4jL-1" value="服务端更新对应设备缓存的最后在线时间，网络状况等" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="5" y="603" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Bv3MA95LGZGZdDIA4jL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Bv3MA95LGZGZdDIA4jL-5" target="vrMutl9Br54j6cZ6q9lH-144">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Bv3MA95LGZGZdDIA4jL-5" value="心跳请求的响应修改布局更新标识为有更新，然后返回给设备端" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="197" y="698" width="120" height="60" as="geometry" />
