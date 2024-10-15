@@ -8,7 +8,7 @@
           <mxGeometry x="490" y="192" width="691" height="397" as="geometry" />
         </mxCell>
         <mxCell id="5vN8rXRsK1bDS0_Dt-l9-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="192" y="636" width="543" height="224" as="geometry" />
+          <mxGeometry x="192" y="636" width="543" height="219" as="geometry" />
         </mxCell>
         <mxCell id="5vN8rXRsK1bDS0_Dt-l9-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-161" y="193" width="543" height="399" as="geometry" />
@@ -254,6 +254,9 @@
         </mxCell>
         <mxCell id="5vN8rXRsK1bDS0_Dt-l9-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5vN8rXRsK1bDS0_Dt-l9-14" target="5vN8rXRsK1bDS0_Dt-l9-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vN8rXRsK1bDS0_Dt-l9-91" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;广告投播模块&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="377" y="854" width="143" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
