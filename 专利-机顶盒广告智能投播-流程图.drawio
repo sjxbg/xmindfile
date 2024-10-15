@@ -132,7 +132,7 @@
         <mxCell id="5vN8rXRsK1bDS0_Dt-l9-9" value="执行平台命令与&lt;div&gt;播放广告&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="16" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vN8rXRsK1bDS0_Dt-l9-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;分析与匹配算法模块&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5vN8rXRsK1bDS0_Dt-l9-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;分析与匹配&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;模块&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="591" width="170" height="34" as="geometry" />
         </mxCell>
         <mxCell id="5vN8rXRsK1bDS0_Dt-l9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vrMutl9Br54j6cZ6q9lH-110" target="vrMutl9Br54j6cZ6q9lH-107">
