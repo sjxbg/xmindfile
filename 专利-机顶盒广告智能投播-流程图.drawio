@@ -87,6 +87,15 @@
         <mxCell id="5vN8rXRsK1bDS0_Dt-l9-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vrMutl9Br54j6cZ6q9lH-116" target="5vN8rXRsK1bDS0_Dt-l9-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="381" y="434" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="337" y="434" />
+              <mxPoint x="337" y="521" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5vN8rXRsK1bDS0_Dt-l9-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vrMutl9Br54j6cZ6q9lH-116" target="vrMutl9Br54j6cZ6q9lH-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="381" y="434" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrMutl9Br54j6cZ6q9lH-116" value="机顶盒携带设备及用户信息定时发送心跳请求给平台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -249,7 +258,16 @@
         <mxCell id="5vN8rXRsK1bDS0_Dt-l9-77" value="根据设备状态对于没有接收到广告的设备重新发送广告包" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="599" y="672" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vN8rXRsK1bDS0_Dt-l9-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5vN8rXRsK1bDS0_Dt-l9-80" target="5vN8rXRsK1bDS0_Dt-l9-5">
+        <mxCell id="5vN8rXRsK1bDS0_Dt-l9-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5vN8rXRsK1bDS0_Dt-l9-80" target="vrMutl9Br54j6cZ6q9lH-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="327" y="799" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="396" y="799" />
+              <mxPoint x="396" y="434" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5vN8rXRsK1bDS0_Dt-l9-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5vN8rXRsK1bDS0_Dt-l9-80" target="5vN8rXRsK1bDS0_Dt-l9-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="327" y="799" as="targetPoint" />
           </mxGeometry>
