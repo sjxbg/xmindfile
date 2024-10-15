@@ -84,6 +84,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5vN8rXRsK1bDS0_Dt-l9-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vrMutl9Br54j6cZ6q9lH-116" target="5vN8rXRsK1bDS0_Dt-l9-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="381" y="434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vrMutl9Br54j6cZ6q9lH-116" value="机顶盒携带设备及用户信息定时发送心跳请求给平台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="181" y="404" width="120" height="60" as="geometry" />
         </mxCell>
