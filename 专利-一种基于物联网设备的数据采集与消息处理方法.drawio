@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-1" value="物联网设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="136" width="120" height="60" as="geometry" />
+          <mxGeometry x="202" y="136" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tGZQAkcU19CuK300Gd-0-2" target="tGZQAkcU19CuK300Gd-0-3">
           <mxGeometry relative="1" as="geometry" />
@@ -18,9 +18,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGZQAkcU19CuK300Gd-0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.699;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tGZQAkcU19CuK300Gd-0-2">
+        <mxCell id="tGZQAkcU19CuK300Gd-0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.699;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.687;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tGZQAkcU19CuK300Gd-0-2" target="tGZQAkcU19CuK300Gd-0-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="474.28575134277344" y="239.8572006225586" as="targetPoint" />
+            <mxPoint x="481" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-23" value="上报设&lt;br&gt;备状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tGZQAkcU19CuK300Gd-0-22">
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-2" value="Mosquitto&lt;br&gt;（Broker）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="391" y="136" width="120" height="60" as="geometry" />
+          <mxGeometry x="397" y="136" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tGZQAkcU19CuK300Gd-0-3" target="tGZQAkcU19CuK300Gd-0-10">
           <mxGeometry relative="1" as="geometry" />
@@ -47,26 +47,26 @@
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-24" value="下发&lt;div&gt;规则&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tGZQAkcU19CuK300Gd-0-19">
           <mxGeometry x="-0.0232" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-8" value="Server应用&lt;br&gt;（规则引擎）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="391" y="241" width="120" height="60" as="geometry" />
+          <mxGeometry x="397" y="244" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tGZQAkcU19CuK300Gd-0-9" target="tGZQAkcU19CuK300Gd-0-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-9" value="Elasticsearch&lt;br&gt;（数据存储）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="591" y="344" width="120" height="60" as="geometry" />
+          <mxGeometry x="591" y="341" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tGZQAkcU19CuK300Gd-0-10" target="tGZQAkcU19CuK300Gd-0-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-10" value="Logstash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="591" y="244" width="120" height="60" as="geometry" />
+          <mxGeometry x="591" y="241" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Kibana&lt;br&gt;（可视化Dashboard）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="591" y="444" width="120" height="60" as="geometry" />
+          <mxGeometry x="591" y="441" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
