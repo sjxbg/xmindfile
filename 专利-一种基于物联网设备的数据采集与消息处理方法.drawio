@@ -10,10 +10,10 @@
         <mxCell id="tGZQAkcU19CuK300Gd-0-1" value="物联网设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202" y="136" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tGZQAkcU19CuK300Gd-0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tGZQAkcU19CuK300Gd-0-2" target="tGZQAkcU19CuK300Gd-0-3">
+        <mxCell id="tGZQAkcU19CuK300Gd-0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;" edge="1" parent="1" source="tGZQAkcU19CuK300Gd-0-2" target="tGZQAkcU19CuK300Gd-0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tGZQAkcU19CuK300Gd-0-25" value="数据订阅" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tGZQAkcU19CuK300Gd-0-14">
+        <mxCell id="tGZQAkcU19CuK300Gd-0-25" value="订阅采&lt;div&gt;集数据&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tGZQAkcU19CuK300Gd-0-14">
           <mxGeometry x="-0.0536" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -23,7 +23,7 @@
             <mxPoint x="481" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGZQAkcU19CuK300Gd-0-23" value="上报设&lt;br&gt;备状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tGZQAkcU19CuK300Gd-0-22">
+        <mxCell id="tGZQAkcU19CuK300Gd-0-23" value="上报设&lt;br&gt;备信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tGZQAkcU19CuK300Gd-0-22">
           <mxGeometry x="-0.2197" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
