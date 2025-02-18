@@ -56,11 +56,21 @@
         <mxCell id="tGZQAkcU19CuK300Gd-0-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tGZQAkcU19CuK300Gd-0-9" target="tGZQAkcU19CuK300Gd-0-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tGZQAkcU19CuK300Gd-0-27" value="展示" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tGZQAkcU19CuK300Gd-0-18">
+          <mxGeometry x="-0.2893" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-9" value="Elasticsearch&lt;br&gt;（数据存储）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="591" y="341" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tGZQAkcU19CuK300Gd-0-10" target="tGZQAkcU19CuK300Gd-0-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGZQAkcU19CuK300Gd-0-26" value="存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tGZQAkcU19CuK300Gd-0-17">
+          <mxGeometry x="-0.206" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tGZQAkcU19CuK300Gd-0-10" value="Logstash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="591" y="241" width="120" height="60" as="geometry" />
